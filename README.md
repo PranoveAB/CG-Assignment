@@ -6,8 +6,8 @@ A 3D Hoverboard Game virtually designed using THREE.js and DeviceOrientation API
 
 
 ## Pre-requisites :
-* nodejs : nodejs.org 
-* ngrok : to expose and tunnel localhost ngrok.io
+* nodejs : [](nodejs.org) 
+* ngrok : to expose and tunnel localhost [](ngrok.io)
 
 
 ## Execute
